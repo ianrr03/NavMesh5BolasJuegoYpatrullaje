@@ -2535,7 +2535,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 513711285307907311, guid: e7390edc735fd3c409051c28aadde1fa, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5822608538276588117, guid: e7390edc735fd3c409051c28aadde1fa, type: 3}
       propertyPath: rutaPadre
@@ -2705,7 +2705,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6073093141506993817, guid: dcea3dea524885d4190d6a41d6ea1abb, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 2818507108066275371, guid: dcea3dea524885d4190d6a41d6ea1abb, type: 3}
@@ -2733,7 +2733,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1891002800279917399, guid: 4d6a53e61f7c0d64ab5c1b36ac56ed71, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2072121816531153619, guid: 4d6a53e61f7c0d64ab5c1b36ac56ed71, type: 3}
       propertyPath: m_LocalPosition.x
